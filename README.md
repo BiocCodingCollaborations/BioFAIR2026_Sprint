@@ -1,5 +1,7 @@
 # BioFAIR 2026 Workflow Interoperability Sprint
 
+**Hybrid sprint bringing together contributors from Bioconductor, Galaxy, Nextflow, nf-core, WDL and related workflow communities.**
+
 15-17 September 2026
 Milton Keynes, United Kingdom
 
@@ -17,7 +19,7 @@ The event focuses on improving interoperability between platforms and projects i
 - TES and workflow execution services
 - Related open-source infrastructure projects
 
-Participants are welcome to attend in person or contribute remotely where feasible.
+Participants are welcome to attend in person or contribute remotely.
 
 ## Goals
 
@@ -38,6 +40,17 @@ Sprint planning and logistics are available here:
 
 [TODO: Add Google Doc link]
 
+## How to Participate
+
+Interested in participating?
+
+- Join the Bioconductor Zulip channel: `#biofair2026-workflow-sprint`
+- Introduce yourself and indicate whether you plan to participate in person or remotely
+- Let us know which project(s) or topic area(s) you are interested in contributing to
+- Review the planning document and project discussions
+
+We welcome participation from contributors and community members across Bioconductor, Galaxy, Nextflow, nf-core, WDL and related workflow ecosystems.
+
 ## Projects
 
 Project ideas and working groups will be added here prior to the sprint.
@@ -56,8 +69,12 @@ Details on remote participation will be added closer to the event.
 
 ## Communication
 
-- Zulip: [TODO: Add link]
-- GitHub Issues: use this repository for sprint-related discussions
+Main discussions take place in the Bioconductor Zulip channel:
+
+#biofair2026-workflow-sprint
+
+Join the Bioconductor Zulip community:
+[invite link](https://community-bioc.zulipchat.com/join/qye5zlq7zzb72p2eo2xle7o3/)
 
 ## Outputs
 
@@ -65,4 +82,9 @@ Outputs produced during the sprint will be linked here after the event.
 
 ## Acknowledgements
 
-This sprint is organised through BioFAIR and brings together contributors from multiple international open-source communities, including Bioconductor, Galaxy, Nextflow, nf-core and WDL.
+This sprint is connected to the BioFAIR Pathfinder project "Connecting Bioconductor, Galaxy, and nf-core: FAIR, AI-ready workflows and training for single-cell analysis", led by Kevin Rue-Albrecht.
+
+The sprint brings together contributors from multiple international open-source communities, including Bioconductor, Galaxy, Nextflow, nf-core and WDL, to improve workflow interoperability, reproducibility and FAIR practices.
+
+More information:
+https://www.software.ac.uk/news/ssi-fellow-awarded-biofair-pathfinder-project
