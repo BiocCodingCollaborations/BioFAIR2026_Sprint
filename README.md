@@ -19,7 +19,7 @@ The event focuses on improving interoperability between platforms and projects i
 - TES and workflow execution services
 - Related open-source infrastructure projects
 
-Participants are welcome to attend in person or contribute remotely.
+The sprint will be run as a hybrid event, with opportunities for both in-person and remote participation. Those interested in participating are encouraged to join the Zulip channel and introduce themselves.
 
 ## Goals
 
@@ -53,7 +53,7 @@ We welcome participation from contributors and community members across Biocondu
 
 ## Projects
 
-Project ideas and working groups will be added here prior to the sprint.
+Projects and working groups will be added here prior to the sprint.
 
 ### BiocJobs
 
@@ -65,7 +65,7 @@ https://github.com/almahmoud/BiocJobs
 
 ## Remote Participation
 
-Details on remote participation will be added closer to the event.
+Remote participation is encouraged. Further details will be added closer to the event.
 
 ## Communication
 
