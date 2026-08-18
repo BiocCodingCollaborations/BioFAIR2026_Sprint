@@ -38,7 +38,7 @@ Potential topics include:
 
 Sprint planning and logistics are available here:
 
-[TODO: Add Google Doc link]
+[Google Doc link](https://docs.google.com/document/d/1eKNACIPJf6vLIzBrE-8yrtCrYcmiXGMzYhBouuoVxR0/edit?usp=sharing)
 
 ## How to Participate
 
